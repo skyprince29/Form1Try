@@ -27,6 +27,7 @@ namespace Form1Try
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             //change ni liwat last
+            //try liwat a hehehe
         }
     }
 }
