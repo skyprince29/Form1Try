@@ -23,5 +23,10 @@ namespace Form1Try
             //trylangmani hehehe
             //forda try lang tna ni
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            //change ni liwat last
+        }
     }
 }
