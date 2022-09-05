@@ -21,6 +21,7 @@ namespace Form1Try
         {
             Panel1.form1Instance.paneltbx.Text = textBox2.Text;
             //trylangmani hehehe
+            //forda try lang tna ni
         }
     }
 }
